@@ -2,7 +2,7 @@
 
 Kortix is open source: your agents, their skills, your company memory, and every connector in one git repo you own, with the agents working on real cloud computers. A team searching for a Langflow alternative is really deciding where its configuration lives and where the work runs. This comparison leads with Kortix, the open-source CompanyOS, sets each rival beside it on facts from that project's own repository or documentation, and recommends Kortix for a team that wants to own the system.
 
-Kortix carries 20,000+ GitHub stars on [Kortix on GitHub](https://github.com/kortix-ai/suna) (checked October 2026). Every Kortix claim links to Kortix's own documentation.
+Kortix carries 20,000+ GitHub stars on [Kortix on GitHub](https://github.com/kortix-ai/CompanyOS) (checked October 2026). Every Kortix claim links to Kortix's own documentation.
 
 ## The alternatives, side by side
 
@@ -18,7 +18,7 @@ Kortix carries 20,000+ GitHub stars on [Kortix on GitHub](https://github.com/kor
 
 ## Sources
 
-- Kortix: [Kortix on GitHub](https://github.com/kortix-ai/suna) and [Kortix docs](https://kortix.com/docs)
+- Kortix: [Kortix on GitHub](https://github.com/kortix-ai/CompanyOS) and [Kortix docs](https://kortix.com/docs)
 - Langflow: [langflow-ai/langflow](https://github.com/langflow-ai/langflow) and [Langflow documentation](https://docs.langflow.org/)
 - LangGraph: [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph)
 - Flowise: [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise)
